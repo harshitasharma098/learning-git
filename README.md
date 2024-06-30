@@ -1,3 +1,4 @@
 # learning-git
-learning how to operate in github
-author- Harshita Sharma
+Learning how to operate in github.
+<Br>
+Author- Harshita Sharma
